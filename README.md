@@ -57,10 +57,10 @@ The app uses real blood compatibility rules to show only valid donor matches.
 - Authentication system
 
 ## Screenshots
-<img width="1080" height="2400" alt="1" src="https://github.com/user-attachments/assets/73545f8f-6bce-4607-9098-be6e3aae3f46" />
-<img width="720" height="1600" alt="2" src="https://github.com/user-attachments/assets/7acad70a-25f8-4e49-9083-221b5bae60a9" />
-<img width="720" height="1600" alt="3" src="https://github.com/user-attachments/assets/061ddd29-3236-4625-8c19-a9add00a8adf" />
-<img width="720" height="1600" alt="4" src="https://github.com/user-attachments/assets/efc3cd85-4429-4637-9601-481c96532e00" />
+<img width="300" height="600" alt="1" src="https://github.com/user-attachments/assets/73545f8f-6bce-4607-9098-be6e3aae3f46" />
+<img width="300" height="600" alt="2" src="https://github.com/user-attachments/assets/7acad70a-25f8-4e49-9083-221b5bae60a9" />
+<img width="300" height="600" alt="3" src="https://github.com/user-attachments/assets/061ddd29-3236-4625-8c19-a9add00a8adf" />
+<img width="300" height="600" alt="4" src="https://github.com/user-attachments/assets/efc3cd85-4429-4637-9601-481c96532e00" />
 
 ## Author
 Saniha R B
